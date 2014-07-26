@@ -12,7 +12,8 @@
     "cookie-parser": "~1.0.1",
     "body-parser": "~1.0.0",
     "debug": "~0.7.4",
-    "jade": "*",
+    "hjs": "~0.0.6",
+    "less-middleware": "1.0.x",
     "mongodb": "*",
     "monk": "*"
   }
